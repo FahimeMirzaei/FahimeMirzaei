@@ -24,12 +24,12 @@ I'm a passionate frontend developer with a focus on building responsive, accessi
 - **Backend**: Supabase, REST APIs
 
 ---
-### 📌 Projects
+### 📌 TOP Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| E-Home(#) | A platform for complex residence with full automation | React, Tailwind, Supabase |
-| SHOP(#) | A modern shop website | Next.js, TypeScript, Cypress |
+| E-Home | A platform for complex residence with full automation | React, Tailwind, Supabase |
+| SHOP | A modern shop website | Next.js, TypeScript, Cypress |
 ---
 
 ### 📈 GitHub Stats
